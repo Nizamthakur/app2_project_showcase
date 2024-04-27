@@ -13,5 +13,8 @@ with col1:
 
 with col2:
     st.title("Saklain Nizam thakur")
-    content = """ Hi, I am saklain nizam thakur. I work as a Python developer. I graduated in 2024"""
+    content = """ 
+I am Saklain Nizam Thakur, a Python developer. I graduated in 2024 and have been passionate about coding and problem-solving. Feel free to reach out if you have any questions or need assistance!"""
     st.info(content)
+st.markdown("""
+Below you can find some of the apps that I have build in python recently. Feel  free to contact me!""")
